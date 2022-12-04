@@ -2,10 +2,8 @@ package dumpFile_Challenge;
 
 public class MountainLogic {
     public static void main(String[] args) {
-        //HackerRank case : https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true
-
-//        int steps = 8;
-//        String path = "UDDDUDUU";
+        
+        //same case just a different logic for counting mountains
         int steps = 12;
         String path = "DDUUDDUDUUUD";
         int startPoint = 0;
